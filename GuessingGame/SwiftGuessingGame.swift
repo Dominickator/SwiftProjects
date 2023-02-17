@@ -5,7 +5,7 @@ let randomNumber = Int.random(in: 1...100)
 var numGuesses = 0
 
 // Secret Mini-Game
-var miniGameBool: Bool
+var miniGameBool: Bool = false
 
 // Loop to allow the player to guess up to 10 times
 while numGuesses < 10 {
