@@ -150,7 +150,6 @@ if(miniGameBool == true){
                 map[j5.locationx][j5.locationy] = " "
             }
             printMap(map: map)
-            if()
         }
         
     }
